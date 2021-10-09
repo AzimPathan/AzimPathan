@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AzimPathan/AzimPathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey, it's Azim Pathan here!
+A computer science enthusiast looking forward to enhance my knowledge and skills to utilize them in the best possible manner.
+
+For more info, visit [LinkedIn](https://www.linkedin.com/in/azim-pathan-7a8p6/) | [HackerRank](https://www.hackerrank.com/azimpathan7)
+
