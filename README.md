@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, it's Azim Pathan here!
+# Hey, it's Ajim Pathan here!
 A computer science enthusiast looking forward to enhance my knowledge and skills to utilize them in the best possible manner.
 
-For more info, visit [LinkedIn](https://www.linkedin.com/in/azim-pathan-7a8p6/) | [HackerRank](https://www.hackerrank.com/azimpathan7)
+For more info, visit [LinkedIn](https://www.linkedin.com/in/ajim-pathan/) | [HackerRank](https://www.hackerrank.com/ajimpathan)
 
