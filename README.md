@@ -20,7 +20,7 @@ I work at the intersection of **Software Systems, Services, and AI** —  explor
 ## 🛠️ Tech Stack
 **Languages:** Java, Python  
 **Tools and Frameworks:** Eclipse, SWT, VS Code, ADEX (system modeling tool)  
-**AI:** OpenNLP, ChatGPT, GPT 4-o mini, Prompt Engineering, Azure AI
+**AI:** OpenNLP, ChatGPT, GPT 4-o mini, Prompt Engineering, Azure AI  
 **Other:** Git, GitLab, GitHub, REST APIs, Docx4J, Apache POI, ANTLR, MDE, Postgres  
 
 ---
@@ -32,7 +32,5 @@ I work at the intersection of **Software Systems, Services, and AI** —  explor
 ---
 
 ## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajim-pathan)   
-[![Google Scholar](https://img.shields.io/badge/Scholar-gray?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=2LS9YssAAAAJ)  
-[HackerRank](https://www.hackerrank.com/ajimpathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajim-pathan)   [![Google Scholar](https://img.shields.io/badge/Scholar-gray?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=2LS9YssAAAAJ)  [HackerRank](https://www.hackerrank.com/ajimpathan)
 
